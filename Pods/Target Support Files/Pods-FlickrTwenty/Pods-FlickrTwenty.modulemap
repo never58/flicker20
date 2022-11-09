@@ -1,0 +1,6 @@
+framework module Pods_FlickrTwenty {
+  umbrella header "Pods-FlickrTwenty-umbrella.h"
+
+  export *
+  module * { export * }
+}
